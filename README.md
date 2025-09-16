@@ -9,7 +9,7 @@ Bachelor of Informatics (3rd year) and Bachelor of Data Science (2nd year).
   Teaching Assistant: Fatima Ezzeddine
 
 
-6 tutorial sessions:
+## 6 tutorial sessions:
 
 Problem Formulation:
 
@@ -28,5 +28,6 @@ From scratch algorithms implementation + Examples of the use of Mealpy:
 6. Ant Colony Optimization
 
 
-Programming Language: Python
-Libraries: Numpy, Matplotlib, Mealpy.
+## Programming Language: Python
+
+## Libraries: Numpy, Matplotlib, Mealpy.
