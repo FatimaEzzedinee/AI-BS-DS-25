@@ -1,8 +1,8 @@
 # AI-BS-DS-25
 
-## The official Github Repository for the Artificial Intelligence Course, Fall 2025, @Università della Svizzera italiana, Faculty of Informatics, Lugano, Switzerland.
+## The official Github Repository for the Artificial Intelligence Course, Fall 2025, @Università della Svizzera italiana, Faculty of Informatics, Lugano, Switzerland
 
-Bachelor of Informatics (3rd year) and Bachelor of Data Science (2nd year).
+Bachelor of Informatics (3rd year) and Bachelor of Data Science (2nd year)
 
   Course Director: Prof. Luca Gambardella
 
@@ -28,6 +28,6 @@ From scratch algorithms implementation + Examples of the use of Mealpy:
 6. Ant Colony Optimization
 
 
-## Programming Language: Python
+#### Programming Language: Python
 
-## Libraries: Numpy, Matplotlib, Mealpy.
+#### Libraries: Numpy, Matplotlib, Mealpy
