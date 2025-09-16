@@ -1,24 +1,32 @@
 # AI-BS-DS-25
 
-The official Github Repository for the Artificial Intelligence Course, Fall 2025, @Università della Svizzera italiana, Faculty of Informatics, Lugano, Switzerland.
+## The official Github Repository for the Artificial Intelligence Course, Fall 2025, @Università della Svizzera italiana, Faculty of Informatics, Lugano, Switzerland.
 
 Bachelor of Informatics (3rd year) and Bachelor of Data Science (2nd year).
 
-Course Director: Prof. Luca Gambardella
-Teaching Assistant: Fatima Ezzeddine
+  Course Director: Prof. Luca Gambardella
+
+  Teaching Assistant: Fatima Ezzeddine
+
 
 6 tutorial sessions:
 
 Problem Formulation:
-• Intro to the Traveling Salesman Problem and Job Shop Problem
 
-From scratch algorithms implementation:
-• Simulated Annealing
+1. Intro to the Traveling Salesman Problem and Job Shop Problem
 
-• Local Search concept (2opt, 3opt) and Iterated Local Search
+From scratch algorithms implementation + Examples of the use of Mealpy:
 
-• Constructive heuristics
+2. Simulated Annealing
 
-• Genetics Algorithm
+3. Local Search concept (2opt, 3opt) and Iterated Local Search
 
-• Ant Colony Optimization
+4. Constructive heuristics
+
+5. Genetics Algorithms
+
+6. Ant Colony Optimization
+
+
+Programming Language: Python
+Libraries: Numpy, Matplotlib, Mealpy.
